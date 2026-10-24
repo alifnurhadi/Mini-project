@@ -23,3 +23,6 @@ ORDER BY total_sales DESC
 **output**
 
 - kategori penjualan terbanyak ada pada Outerwear & Coats , Jeans , Sweaters
+
+
+
